@@ -8,7 +8,7 @@ Provisioning your own instance of the Bluemix service:
 1. Find the service [in Bluemix](https://console.ng.bluemix.net/catalog/services/blockchain/).
 2. Sign up for a Bluemix account and/or provision an instance.
 3. After the service is created and you are taken to the service panel, view the credentials that were created for your service.  These credentials should be passed into the Blockchain SDK when you start building your blockchain application.
-4. Open the monitoring dashboard for your service instance.  The monitoring dashboard you see should appear as shown below and have the tabs: Network, Live Logs, Blockchain, APIs, and Deploy.
+4. Open the monitoring dashboard for your service instance.  The monitoring dashboard you see should have tabs for viewing your network, peer logs, the state of you blockchain, peer APIs, and demo chaincode.
 
 ## Getting Started with the Blockchain SDK
 1. Find the [SDK documentation](https://github.com/hyperledger/fabric/tree/master/sdk/node). 
