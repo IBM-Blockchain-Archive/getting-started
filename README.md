@@ -4,13 +4,11 @@
 We have developed the [Hyperledger Fabric](https://github.com/hyperledger/fabric) into a service on Bluemix.  Provisioning an instance of this service gives you a small blockchain network consisting of two peers and one certificate authority server (CA).  You can then deploy and test your own smart contract code (chaincode) on this blockchain network and implement applications utilizing it.
 
 Provisioning your own instance of the Bluemix service:
+
 1. Find the service [in Bluemix](https://console.ng.bluemix.net/catalog/services/blockchain/).
 2. Sign up for a Bluemix account and/or provision an instance.
-![Catalog Page](https://github.com/IBM-Blockchain/getting-started/images/blockchain_catalog.png "Blockchain Bluemix Service Catalog Page")
 3. After the service is created and you are taken to the service panel, view the credentials that were created for your service.  These credentials should be passed into the Blockchain SDK when you start building your blockchain application.
-4. Open the monitoring dashboard for your service instance.
-The monitoring dashboard you see should appear as shown below and have the tabs: Network, Live Logs, Blockchain, APIs, and Deploy.
-
+4. Open the monitoring dashboard for your service instance.  The monitoring dashboard you see should appear as shown below and have the tabs: Network, Live Logs, Blockchain, APIs, and Deploy.
 
 ## Getting Started with the Blockchain SDK
 1. Find the [SDK documentation](https://github.com/hyperledger/fabric/tree/master/sdk/node). 
