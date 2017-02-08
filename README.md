@@ -11,7 +11,7 @@ Provisioning your own instance of the Bluemix service:
 4. Open the monitoring dashboard for your service instance.  The monitoring dashboard you see should have tabs for viewing your network, peer logs, the state of you blockchain, peer APIs, and demo chaincode.
 
 ## Getting Started with the Blockchain SDK
-1. Find the [SDK documentation](https://github.com/hyperledger/fabric/tree/master/sdk/node). 
+1. Find the [SDK documentation](https://github.com/hyperledger/fabric-sdk-node). 
 2. Read the documentation.  It will walk you through the process of initializing the SDK with connection information for your network and some information about the chaincode you want to deploy.  After that, you can deploy, invoke, and query you chaincode from whatever NodeJS application you want to build.
 
 ## Deploying your application to Bluemix
